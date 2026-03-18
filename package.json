@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "cp data/latest.json public/data.json && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
