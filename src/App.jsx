@@ -246,7 +246,7 @@ function Prefs({ P, uP, kbUpdated }) {
         <h3 style={{ fontSize: 15, fontWeight: 700, margin: "0 0 2px", color: "#111" }}>관심 유형</h3>
         <p style={{ fontSize: 12, color: "#999", margin: "0 0 10px" }}>빈칸이면 전체 표시</p>
         <div style={{ display: "flex", flexWrap: "wrap", gap: 6 }}>
-          {["APT", "공공분양", "무순위", "오피스텔"].map((c) => (
+          {["APT", "공공분양", "무순위"].map((c) => (
             <Chip key={c} l={c} on={(P.cats || []).includes(c)} fn={() => tog("cats", c)} />
           ))}
         </div>

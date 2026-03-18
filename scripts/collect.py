@@ -174,12 +174,6 @@ def collect_cheongyak():
                 item["types"] = fetch_apt_types(item["id"])
             results.append(item)
 
-    log.info("📌 오피스텔 분양정보 수집...")
-    for raw in call_api("/getOftlLttotPblancList"):
-        item = parse_apt(raw, "오피스텔")
-        if item:
-            results.append(item)
-
     log.info("📌 무순위/잔여세대 수집...")
     for raw in call_api("/getRemndrLttotPblancList"):
         item = parse_apt(raw, "무순위")
@@ -271,17 +265,33 @@ def collect_lh():
 def collect_sh():
     results = []
     log.info("📌 SH 분양공고 수집...")
-    try:
-        resp = requests.get(
-            "https://www.i-sh.co.kr/main/lay2/program/S1T294C297/www/brd/m_247/list.do",
-            headers=HEADERS, timeout=15,
-        )
-        if resp.status_code == 200:
-            soup = BeautifulSoup(resp.text, "html.parser")
-            for row in soup.select("table tbody tr, .board-list li"):
-                link = row.select_one("a")
-                if link:
+    # SH 분양/임대 공고 페이지들
+    sh_urls = [
+        "https://www.i-sh.co.kr/main/lay2/program/S1T294C297/www/brd/m_247/list.do",
+        "https://www.i-sh.co.kr/main/lay2/program/S1T294C298/www/brd/m_248/list.do",
+    ]
+    # 분양/임대와 관련 없는 게시글 필터링 키워드
+    exclude_kw = ["홈페이지", "시스템", "서비스", "안내문", "게시", "용역", "위원회", "운용", "경영"]
+
+    for sh_url in sh_urls:
+        try:
+            resp = requests.get(sh_url, headers=HEADERS, timeout=15)
+            if resp.status_code == 200:
+                soup = BeautifulSoup(resp.text, "html.parser")
+                for row in soup.select("table tbody tr, .board-list li"):
+                    link = row.select_one("a")
+                    if not link:
+                        continue
                     name = link.get_text(strip=True)
+                    # "NEW" 접두어 제거
+                    if name.startswith("NEW"):
+                        name = name[3:].strip()
+                    # 공지성 게시글 제외
+                    if any(kw in name for kw in exclude_kw):
+                        continue
+                    # 분양/임대/모집 관련 게시글만 포함
+                    if not any(kw in name for kw in ["공급", "모집", "분양", "임대", "청약", "당첨", "잔여"]):
+                        continue
                     href = link.get("href", "")
                     results.append({
                         "id": f"sh_{name[:15]}",
@@ -293,8 +303,8 @@ def collect_sh():
                         "types": [],
                         "url": f"https://www.i-sh.co.kr{href}" if href.startswith("/") else "https://www.i-sh.co.kr",
                     })
-    except Exception as ex:
-        log.warning(f"SH 수집 실패: {ex}")
+        except Exception as ex:
+            log.warning(f"SH 수집 실패 ({sh_url}): {ex}")
 
     log.info(f"  → SH {len(results)}건")
     return results
