@@ -50,7 +50,7 @@ function Card({ item, saved, onSave, onOpen, dim, kbRate }) {
         background: "#fff", borderRadius: 14, padding: "14px 16px",
         marginBottom: 10,
         border: st.c === "#EF4444" && st.l === "접수중" ? "1.5px solid #FCA5A5" : "1px solid #F0F0F0",
-        cursor: "pointer", opacity: dim ? 0.4 : 1, position: "relative",
+        cursor: "pointer", position: "relative",
       }}
     >
       {dim && (
