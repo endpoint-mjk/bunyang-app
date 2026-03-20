@@ -164,7 +164,20 @@ function Detail({ item, onClose, saved, onSave, kbRate, kbUpdated }) {
           ))}
         </div>
 
-        {(item.types || []).length > 0 && (
+        {item.qual && (
+          <div style={{ marginBottom: 16 }}>
+            <h3 style={{ fontSize: 15, fontWeight: 600, margin: "0 0 10px" }}>청약 일정</h3>
+            <div style={{ background: "#FFFBEB", border: "1px solid #FDE68A", borderRadius: 12, padding: "14px 16px" }}>
+              {item.qual.split(" / ").map((q, i) => (
+                <div key={i} style={{ fontSize: 13, color: "#92400E", padding: "3px 0", display: "flex", gap: 6 }}>
+                  <span style={{ color: "#B45309", fontWeight: 600 }}>•</span> {q}
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {(item.types || []).length > 0 ? (
           <>
             <h3 style={{ fontSize: 15, fontWeight: 600, margin: "0 0 10px" }}>주택형별 정보</h3>
             <div style={{ border: "1px solid #EAEAEA", borderRadius: 12, overflow: "hidden" }}>
@@ -181,6 +194,11 @@ function Detail({ item, onClose, saved, onSave, kbRate, kbUpdated }) {
               ))}
             </div>
           </>
+        ) : (
+          <div style={{ background: "#F8F9FA", borderRadius: 12, padding: "16px", textAlign: "center", marginBottom: 8 }}>
+            <div style={{ fontSize: 13, color: "#888", marginBottom: 4 }}>주택형 정보가 아직 수집되지 않았어요</div>
+            <div style={{ fontSize: 12, color: "#aaa" }}>공고 원문에서 평수/분양가를 확인하세요</div>
+          </div>
         )}
 
         {item.url && (
@@ -328,7 +346,7 @@ export default function App() {
     (raw || []).map((i) => {
       const tier = i.tier || "B";
       const types = i.types || [];
-      const big = types.some((t) => (t.py || 0) >= (P.minPy || 24));
+      const big = types.length === 0 || types.some((t) => (t.py || 0) >= (P.minPy || 24));
       const catOk = (P.cats || []).length === 0 || (P.cats || []).includes(i.cat);
       const tierOk = !(P.exT || []).includes(tier);
       const kbRate = getKbRate(kb, i.city, i.dist);
