@@ -155,7 +155,7 @@ def parse_apt(raw, category="APT"):
             break
 
     manage_no = g("HOUSE_MANAGE_NO", "houseManageNo")
-    tier = get_tier(city, district) if city else "B"
+    tier = get_tier(city, district) if city else "C"
 
     units = 0
     try:
@@ -440,7 +440,7 @@ def collect_lh():
                 "loc": region, "ann": norm_date,
                 "ss": "", "se": deadline.replace(".", "-") if deadline else "",
                 "units": 0, "bld": "LH",
-                "mv": "", "tier": get_tier(city, district or region),
+                "mv": "", "tier": get_tier(city, district or region) if city else "C",
                 "types": [], "qual": "",
                 "url": detail_url,
             }
