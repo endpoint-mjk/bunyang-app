@@ -67,7 +67,7 @@ def format_price(amount_str):
 
 
 # ── 필터링 ───────────────────────────────────────────────────────────
-CUTOFF_DAYS = 7
+CUTOFF_DAYS = 30
 
 # 모집공고가 아닌 게시글 제외 키워드
 EXCLUDE_TITLE_KW = [
@@ -88,16 +88,30 @@ RENTAL_KW = [
 ]
 
 
-def is_recent(date_str, days=CUTOFF_DAYS):
-    """공고일이 최근 N일 이내인지 확인"""
+def parse_date(date_str):
+    """날짜 문자열을 datetime으로 변환"""
     if not date_str:
-        return True
+        return None
     try:
         clean = re.sub(r'[.\s]', '-', date_str.strip()).rstrip('-')
-        dt = datetime.strptime(clean, "%Y-%m-%d")
-        return (datetime.now() - dt).days <= days
+        return datetime.strptime(clean, "%Y-%m-%d")
     except:
+        return None
+
+
+def is_active_or_recent(ann_date, end_date=None, days=CUTOFF_DAYS):
+    """접수 마감 전이거나 공고일이 최근 N일 이내인 공고만 포함"""
+    now = datetime.now()
+    # 접수 마감일이 아직 안 지났으면 포함
+    se = parse_date(end_date)
+    if se and se >= now:
         return True
+    # 공고일 기준 N일 이내면 포함
+    ann = parse_date(ann_date)
+    if ann:
+        return (now - ann).days <= days
+    # 날짜 정보 없으면 일단 포함
+    return True
 
 
 def is_bunyang_recruitment(name):
@@ -252,7 +266,7 @@ def collect_cheongyak():
         if not is_bunyang_recruitment(item["name"]):
             log.info(f"  ↳ 제외 (비모집): {item['name'][:40]}")
             continue
-        if not is_recent(item["ann"]):
+        if not is_active_or_recent(item["ann"], item.get("se")):
             continue
         if item["id"] and API_KEY:
             item["types"] = fetch_apt_types(item["id"])
@@ -266,7 +280,7 @@ def collect_cheongyak():
         if not is_bunyang_recruitment(item["name"]):
             log.info(f"  ↳ 제외 (비모집): {item['name'][:40]}")
             continue
-        if not is_recent(item["ann"]):
+        if not is_active_or_recent(item["ann"], item.get("se")):
             continue
         if item["id"] and API_KEY:
             item["types"] = fetch_remndr_types(item["id"])
@@ -409,7 +423,8 @@ def collect_lh():
                         region = text
 
             norm_date = date_str.replace(".", "-") if date_str else ""
-            if not is_recent(norm_date):
+            norm_deadline = deadline.replace(".", "-") if deadline else ""
+            if not is_active_or_recent(norm_date, norm_deadline):
                 continue
 
             # 상세페이지 ID 추출
@@ -633,7 +648,7 @@ def collect_sh():
                     except Exception as ex:
                         log.warning(f"SH 상세 실패 ({name[:20]}): {ex}")
 
-                if not is_recent(item["ann"]):
+                if not is_active_or_recent(item["ann"], item.get("se")):
                     continue
 
                 results.append(item)
