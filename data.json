@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-26 15:00",
-  "count": 5,
+  "updated": "2026-03-26 16:57",
+  "count": 4,
   "kb": {
     "updated": "2026.03.26",
     "data": {
@@ -174,25 +174,6 @@
       "types": [],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061056&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_0000061053",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "[재게시]인천영종 A33·37·60블록 공공분양 잔여세대 입주자모집공고(선착순 동호지정)1일전",
-      "dist": "",
-      "city": "인천",
-      "loc": "[재게시]인천영종 A33·37·60블록 공공분양 잔여세대 입주자모집공고(선착순 동호지정)1일전",
-      "ann": "2026-01-26",
-      "ss": "",
-      "se": "2026-05-29",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061053&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     }
   ]
 }
