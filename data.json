@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-27 08:44",
-  "count": 5,
+  "updated": "2026-03-27 10:43",
+  "count": 4,
   "kb": {
     "updated": "2026.03.27",
     "data": {
@@ -125,25 +125,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061065&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "sh_302054",
-      "src": "SH",
-      "cat": "공공분양",
-      "name": "서울고덕강일공공주택지구(1공구)공급용지 토지 소유권이전등기 안내",
-      "dist": "",
-      "city": "서울",
-      "loc": "서울",
-      "ann": "2026-03-24",
-      "ss": "",
-      "se": "",
-      "units": 0,
-      "bld": "SH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://www.i-sh.co.kr"
     },
     {
       "id": "lh_0000061057",
