@@ -1,8 +1,8 @@
 {
-  "updated": "2026-03-29 22:26",
-  "count": 4,
+  "updated": "2026-03-30 02:03",
+  "count": 5,
   "kb": {
-    "updated": "2026.03.29",
+    "updated": "2026.03.30",
     "data": {
       "서울_서울": 0.0,
       "서울_종로구": 0.0,
@@ -99,6 +99,33 @@
     }
   },
   "items": [
+    {
+      "id": "lh_2015122300019408",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "서귀포혁신1 무순위 선착순 동호지정 분양 공고1일전",
+      "dist": "",
+      "city": "",
+      "loc": "제주특별자치도",
+      "ann": "2026-03-30",
+      "ss": "",
+      "se": "2026-07-31",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "59.98",
+          "m2": 13.0,
+          "py": 4,
+          "u": 13,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019408&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "lh_0000061065",
       "src": "LH",
