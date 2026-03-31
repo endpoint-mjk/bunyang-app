@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-31 04:39",
-  "count": 6,
+  "updated": "2026-03-31 07:08",
+  "count": 7,
   "kb": {
     "updated": "2026.03.31",
     "data": {
@@ -99,6 +99,40 @@
     }
   },
   "items": [
+    {
+      "id": "lh_2015122300019650",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "[재게시] 효천LH천년나무2단지(효천하우스디) 잔여세대 일반매각 공고(상시, 유주택)1일전",
+      "dist": "",
+      "city": "",
+      "loc": "광주광역시",
+      "ann": "2026-03-31",
+      "ss": "",
+      "se": "2026-12-31",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "51.61",
+          "m2": 3.0,
+          "py": 1,
+          "u": 2,
+          "p": "-"
+        },
+        {
+          "a": "51.61",
+          "m2": 11.0,
+          "py": 3,
+          "u": 2,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019650&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "lh_0000061064",
       "src": "LH",
