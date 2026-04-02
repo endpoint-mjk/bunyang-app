@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-01 22:33",
-  "count": 8,
+  "updated": "2026-04-02 01:55",
+  "count": 9,
   "kb": {
-    "updated": "2026.04.01",
+    "updated": "2026.04.02",
     "data": {
       "서울_서울": 0.0,
       "서울_종로구": 0.0,
@@ -99,6 +99,40 @@
     }
   },
   "items": [
+    {
+      "id": "lh_0000061068",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "원주무실 A-2블록 공공분양주택 잔여세대 추가 입주자모집 공고(자격완화)1일전",
+      "dist": "",
+      "city": "",
+      "loc": "강원특별자치도",
+      "ann": "2026-04-02",
+      "ss": "",
+      "se": "2026-04-17",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "74.84",
+          "m2": 88.0,
+          "py": 27,
+          "u": 63,
+          "p": "청약신청전"
+        },
+        {
+          "a": "84.79",
+          "m2": 207.0,
+          "py": 63,
+          "u": 128,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061068&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "sh_302368",
       "src": "SH",
