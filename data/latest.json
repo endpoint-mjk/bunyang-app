@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-06 14:42",
-  "count": 7,
+  "updated": "2026-04-06 16:41",
+  "count": 6,
   "kb": {
     "updated": "2026.04.06",
     "data": {
@@ -330,25 +330,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061065&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_0000061057",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "울산다운2 A-9 신혼희망타운 선착순 동호지정 공고(5년무이자 할부 및 발코니비용 무상)1일전",
-      "dist": "",
-      "city": "",
-      "loc": "울산다운2 A-9 신혼희망타운 선착순 동호지정 공고(5년무이자 할부 및 발코니비용 무상)1일전",
-      "ann": "2026-02-06",
-      "ss": "",
-      "se": "2027-01-31",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061057&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
     }
   ]
 }
