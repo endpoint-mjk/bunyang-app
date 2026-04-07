@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-07 07:09",
-  "count": 6,
+  "updated": "2026-04-07 08:57",
+  "count": 5,
   "kb": {
     "updated": "2026.04.07",
     "data": {
@@ -242,40 +242,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019650&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_0000061064",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "인천영종 A24블록 공공분양주택 잔여세대 추가입주자모집공고1일전",
-      "dist": "",
-      "city": "인천",
-      "loc": "인천영종 A24블록 공공분양주택 잔여세대 추가입주자모집공고1일전",
-      "ann": "2026-03-30",
-      "ss": "",
-      "se": "2026-04-07",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "74.96",
-          "m2": 180.0,
-          "py": 54,
-          "u": 126,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.82",
-          "m2": 461.0,
-          "py": 139,
-          "u": 419,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061064&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_2015122300019408",
