@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-15 05:58",
-  "count": 7,
+  "updated": "2026-04-15 07:50",
+  "count": 6,
   "kb": {
     "updated": "2026.04.15",
     "data": {
@@ -139,25 +139,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019767&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "sh_302796",
-      "src": "SH",
-      "cat": "공공분양",
-      "name": "서울항동 공공주택지구 용지(주차장1) 분양 재공고",
-      "dist": "",
-      "city": "서울",
-      "loc": "서울",
-      "ann": "2026-04-13",
-      "ss": "",
-      "se": "",
-      "units": 0,
-      "bld": "SH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://www.i-sh.co.kr"
     },
     {
       "id": "lh_0000061066",
