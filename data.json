@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-17 06:01",
-  "count": 6,
+  "updated": "2026-04-17 09:12",
+  "count": 5,
   "kb": {
     "updated": "2026.04.17",
     "data": {
@@ -214,40 +214,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061066&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_0000061068",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "원주무실 A-2블록 공공분양주택 잔여세대 추가 입주자모집 공고(자격완화)1일전",
-      "dist": "",
-      "city": "",
-      "loc": "강원특별자치도",
-      "ann": "2026-04-02",
-      "ss": "",
-      "se": "2026-04-17",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "74.84",
-          "m2": 88.0,
-          "py": 27,
-          "u": 63,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.79",
-          "m2": 207.0,
-          "py": 63,
-          "u": 128,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061068&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_2015122300019650",
