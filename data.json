@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22 05:58",
-  "count": 8,
+  "updated": "2026-04-22 07:50",
+  "count": 9,
   "kb": {
     "updated": "2026.04.22",
     "data": {
@@ -99,6 +99,33 @@
     }
   },
   "items": [
+    {
+      "id": "lh_0000061077",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "의정부우정 A-1블록 공공분양주택 잔여세대 추가입주자모집공고1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-04-22",
+      "ss": "",
+      "se": "2026-05-08",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "59.34",
+          "m2": 538.0,
+          "py": 163,
+          "u": 443,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061077&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "lh_2015122300019785",
       "src": "LH",
