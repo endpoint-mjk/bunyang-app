@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28 06:27",
-  "count": 9,
+  "updated": "2026-04-28 10:10",
+  "count": 8,
   "kb": {
     "updated": "2026.04.28",
     "data": {
@@ -378,47 +378,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061074&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_2015122300019767",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "원주푸른숨3단지 공가세대 일반매각 공고1일전",
-      "dist": "",
-      "city": "",
-      "loc": "강원특별자치도",
-      "ann": "2026-04-14",
-      "ss": "",
-      "se": "2026-04-28",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "74.95",
-          "m2": 6.0,
-          "py": 2,
-          "u": 2,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.91",
-          "m2": 152.0,
-          "py": 46,
-          "u": 62,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.94",
-          "m2": 13.0,
-          "py": 4,
-          "u": 6,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019767&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_2015122300019650",
