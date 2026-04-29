@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29 20:59",
+  "updated": "2026-04-29 22:53",
   "count": 7,
   "kb": {
     "updated": "2026.04.29",
@@ -174,15 +174,7 @@
       "bld": "LH",
       "mv": "",
       "tier": "B",
-      "types": [
-        {
-          "a": "59.34",
-          "m2": 538.0,
-          "py": 163,
-          "u": 443,
-          "p": "청약신청전"
-        }
-      ],
+      "types": [],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061077&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
