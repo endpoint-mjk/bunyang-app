@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-29 22:53",
-  "count": 7,
+  "updated": "2026-04-30 02:33",
+  "count": 9,
   "kb": {
-    "updated": "2026.04.29",
+    "updated": "2026.04.30",
     "data": {
       "서울_서울": 0.0,
       "서울_종로구": 0.0,
@@ -100,6 +100,44 @@
   },
   "items": [
     {
+      "id": "lh_0000061079",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "청주지북 B1블록 공공분양주택 잔여세대 추가 입주자모집공고(선착순 동호지정)1일전",
+      "dist": "",
+      "city": "",
+      "loc": "충청북도",
+      "ann": "2026-04-30",
+      "ss": "",
+      "se": "2027-03-31",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061079&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "sh_303753",
+      "src": "SH",
+      "cat": "공공분양",
+      "name": "서울고덕강일 공공주택지구 1공구 분양주택 및 분양상가 공유대지지분 이전등기안내문 게시",
+      "dist": "",
+      "city": "서울",
+      "loc": "서울",
+      "ann": "2026-04-30",
+      "ss": "",
+      "se": "",
+      "units": 0,
+      "bld": "SH",
+      "mv": "",
+      "tier": "B",
+      "types": [],
+      "qual": "",
+      "url": "https://www.i-sh.co.kr"
+    },
+    {
       "id": "sh_303584",
       "src": "SH",
       "cat": "공공분양",
@@ -174,7 +212,15 @@
       "bld": "LH",
       "mv": "",
       "tier": "B",
-      "types": [],
+      "types": [
+        {
+          "a": "59.34",
+          "m2": 538.0,
+          "py": 163,
+          "u": 443,
+          "p": "청약신청전"
+        }
+      ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061077&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
