@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04 02:29",
+  "updated": "2026-05-04 06:36",
   "count": 15,
   "kb": {
     "updated": "2026.05.04",
@@ -99,6 +99,25 @@
     }
   },
   "items": [
+    {
+      "id": "sh_303865",
+      "src": "SH",
+      "cat": "공공분양",
+      "name": "[신내의료안심 주택] 입주안내문 게시 (2026년 잔여세대 모집공고 당첨세대)",
+      "dist": "",
+      "city": "서울",
+      "loc": "서울",
+      "ann": "2026-05-04",
+      "ss": "",
+      "se": "",
+      "units": 0,
+      "bld": "SH",
+      "mv": "",
+      "tier": "B",
+      "types": [],
+      "qual": "",
+      "url": "https://www.i-sh.co.kr"
+    },
     {
       "id": "lh_0000061080",
       "src": "LH",
@@ -243,54 +262,6 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061083&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
     },
     {
-      "id": "lh_0000061081",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "고양 창릉 우미 린 그레니티(고양창릉 S-1BL) 공공분양주택(민간참여형) 입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-04-30",
-      "ss": "",
-      "se": "2026-05-28",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "59.98",
-          "m2": 57.0,
-          "py": 17,
-          "u": 57,
-          "p": "청약신청전"
-        },
-        {
-          "a": "59.98",
-          "m2": 314.0,
-          "py": 95,
-          "u": 314,
-          "p": "청약신청전"
-        },
-        {
-          "a": "74.92",
-          "m2": 48.0,
-          "py": 15,
-          "u": 48,
-          "p": "청약신청전"
-        },
-        {
-          "a": "84.99",
-          "m2": 75.0,
-          "py": 23,
-          "u": 75,
-          "p": "청약신청전"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061081&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
       "id": "lh_0000061078",
       "src": "LH",
       "cat": "공공분양",
@@ -380,6 +351,54 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061082&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
+      "id": "lh_0000061081",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "고양 창릉 우미 린 그레니티(고양창릉 S-1BL) 공공분양주택(민간참여형) 입주자모집공고1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-04-30",
+      "ss": "",
+      "se": "2026-05-28",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "59.98",
+          "m2": 57.0,
+          "py": 17,
+          "u": 57,
+          "p": "청약신청전"
+        },
+        {
+          "a": "59.98",
+          "m2": 314.0,
+          "py": 95,
+          "u": 314,
+          "p": "청약신청전"
+        },
+        {
+          "a": "74.92",
+          "m2": 48.0,
+          "py": 15,
+          "u": 48,
+          "p": "청약신청전"
+        },
+        {
+          "a": "84.99",
+          "m2": 75.0,
+          "py": 23,
+          "u": 75,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061081&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
       "id": "lh_2015122300019811",
       "src": "LH",
       "cat": "공공분양",
@@ -424,25 +443,6 @@
       "types": [],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061079&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "sh_303755",
-      "src": "SH",
-      "cat": "공공분양",
-      "name": "항동 공공주택지구 용지(주차장1) 분양 재공고 개찰 결과 안내",
-      "dist": "",
-      "city": "서울",
-      "loc": "서울",
-      "ann": "2026-04-30",
-      "ss": "",
-      "se": "",
-      "units": 0,
-      "bld": "SH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://www.i-sh.co.kr"
     },
     {
       "id": "lh_2015122300019837",
@@ -567,14 +567,14 @@
           "m2": 3.0,
           "py": 1,
           "u": 2,
-          "p": "-"
+          "p": "청약신청마감"
         },
         {
           "a": "51.61",
           "m2": 11.0,
           "py": 3,
           "u": 2,
-          "p": "-"
+          "p": "청약신청마감"
         }
       ],
       "qual": "",
