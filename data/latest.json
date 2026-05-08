@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-08 07:24",
-  "count": 15,
+  "updated": "2026-05-08 09:14",
+  "count": 13,
   "kb": {
     "updated": "2026.05.08",
     "data": {
@@ -99,25 +99,6 @@
     }
   },
   "items": [
-    {
-      "id": "sh_303896",
-      "src": "SH",
-      "cat": "공공분양",
-      "name": "2026년 서울시 청년월세지원 모집공고",
-      "dist": "",
-      "city": "서울",
-      "loc": "서울",
-      "ann": "2026-05-06",
-      "ss": "",
-      "se": "",
-      "units": 0,
-      "bld": "SH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://www.i-sh.co.kr"
-    },
     {
       "id": "lh_2015122300019839",
       "src": "LH",
@@ -484,33 +465,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019837&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_0000061077",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "의정부우정 A-1블록 공공분양주택 잔여세대 추가입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-04-22",
-      "ss": "",
-      "se": "2026-05-08",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "59.34",
-          "m2": 538.0,
-          "py": 163,
-          "u": 443,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061077&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_2015122300019785",
