@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-07 22:58",
+  "updated": "2026-05-08 02:37",
   "count": 15,
   "kb": {
-    "updated": "2026.05.07",
+    "updated": "2026.05.08",
     "data": {
       "서울_서울": 0.0,
       "서울_종로구": 0.0,
@@ -119,6 +119,60 @@
       "url": "https://www.i-sh.co.kr"
     },
     {
+      "id": "lh_2015122300019839",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "진해석동 우림필유 잔여주택 일반매각 선착순 동호지정 공고1일전",
+      "dist": "",
+      "city": "",
+      "loc": "경상남도",
+      "ann": "2026-04-30",
+      "ss": "",
+      "se": "2026-05-27",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "84.99",
+          "m2": 1.0,
+          "py": 0,
+          "u": 1,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019839&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_2015122300019840",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "진해 청안해오름 잔여주택 일반매각 선착순 동호지정 공고1일전",
+      "dist": "",
+      "city": "",
+      "loc": "경상남도",
+      "ann": "2026-04-30",
+      "ss": "",
+      "se": "2026-05-27",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "84.917",
+          "m2": 2.0,
+          "py": 1,
+          "u": 2,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019840&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
       "id": "lh_0000061080",
       "src": "LH",
       "cat": "공공분양",
@@ -165,60 +219,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061080&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_2015122300019840",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "진해 청안해오름 잔여주택 일반매각 선착순 동호지정 공고1일전",
-      "dist": "",
-      "city": "",
-      "loc": "경상남도",
-      "ann": "2026-04-30",
-      "ss": "",
-      "se": "2026-05-27",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "84.917",
-          "m2": 2.0,
-          "py": 1,
-          "u": 2,
-          "p": "-"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019840&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_2015122300019839",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "진해석동 우림필유 잔여주택 일반매각 선착순 동호지정 공고1일전",
-      "dist": "",
-      "city": "",
-      "loc": "경상남도",
-      "ann": "2026-04-30",
-      "ss": "",
-      "se": "2026-05-27",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "84.99",
-          "m2": 1.0,
-          "py": 0,
-          "u": 1,
-          "p": "-"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019839&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_0000061083",
@@ -330,28 +330,28 @@
           "m2": 201.0,
           "py": 61,
           "u": 201,
-          "p": "청약신청전"
+          "p": "정정"
         },
         {
           "a": "59.81",
           "m2": 189.0,
           "py": 57,
           "u": 189,
-          "p": "청약신청전"
+          "p": "정정"
         },
         {
           "a": "74.76",
           "m2": 102.0,
           "py": 31,
           "u": 102,
-          "p": "청약신청전"
+          "p": "정정"
         },
         {
           "a": "84.75",
           "m2": 194.0,
           "py": 59,
           "u": 194,
-          "p": "청약신청전"
+          "p": "정정"
         }
       ],
       "qual": "",
