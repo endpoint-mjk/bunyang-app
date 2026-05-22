@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22 07:40",
-  "count": 13,
+  "updated": "2026-05-22 10:46",
+  "count": 12,
   "kb": {
     "updated": "2026.05.22",
     "data": {
@@ -136,25 +136,6 @@
       "types": [],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061095&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "sh_304571",
-      "src": "SH",
-      "cat": "공공분양",
-      "name": "고덕강일지구 자족기능시설용지8 분양신청 결과",
-      "dist": "",
-      "city": "서울",
-      "loc": "서울",
-      "ann": "2026-05-21",
-      "ss": "",
-      "se": "",
-      "units": 0,
-      "bld": "SH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://www.i-sh.co.kr"
     },
     {
       "id": "lh_0000061080",
