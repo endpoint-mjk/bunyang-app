@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27 07:59",
-  "count": 14,
+  "updated": "2026-05-27 15:28",
+  "count": 12,
   "kb": {
     "updated": "2026.05.27",
     "data": {
@@ -224,60 +224,6 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061080&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
-      "id": "lh_2015122300019840",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "진해 청안해오름 잔여주택 일반매각 선착순 동호지정 공고1일전",
-      "dist": "",
-      "city": "",
-      "loc": "경상남도",
-      "ann": "2026-04-30",
-      "ss": "",
-      "se": "2026-05-27",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "84.917",
-          "m2": 2.0,
-          "py": 1,
-          "u": 2,
-          "p": "-"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019840&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_2015122300019839",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "진해석동 우림필유 잔여주택 일반매각 선착순 동호지정 공고1일전",
-      "dist": "",
-      "city": "",
-      "loc": "경상남도",
-      "ann": "2026-04-30",
-      "ss": "",
-      "se": "2026-05-27",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "84.99",
-          "m2": 1.0,
-          "py": 0,
-          "u": 1,
-          "p": "-"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019839&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
       "id": "lh_0000061083",
       "src": "LH",
       "cat": "공공분양",
@@ -317,54 +263,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061083&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_0000061081",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "고양 창릉 우미 린 그레니티(고양창릉 S-1BL) 공공분양주택(민간참여형) 입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-04-30",
-      "ss": "",
-      "se": "2026-05-28",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "59.98",
-          "m2": 57.0,
-          "py": 17,
-          "u": 57,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "59.98",
-          "m2": 314.0,
-          "py": 95,
-          "u": 314,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "74.92",
-          "m2": 48.0,
-          "py": 15,
-          "u": 48,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.99",
-          "m2": 75.0,
-          "py": 23,
-          "u": 75,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061081&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_0000061078",
@@ -454,6 +352,54 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061082&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_0000061081",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "고양 창릉 우미 린 그레니티(고양창릉 S-1BL) 공공분양주택(민간참여형) 입주자모집공고1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-04-30",
+      "ss": "",
+      "se": "2026-05-28",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "59.98",
+          "m2": 57.0,
+          "py": 17,
+          "u": 57,
+          "p": "청약신청하기"
+        },
+        {
+          "a": "59.98",
+          "m2": 314.0,
+          "py": 95,
+          "u": 314,
+          "p": "청약신청하기"
+        },
+        {
+          "a": "74.92",
+          "m2": 48.0,
+          "py": 15,
+          "u": 48,
+          "p": "청약신청하기"
+        },
+        {
+          "a": "84.99",
+          "m2": 75.0,
+          "py": 23,
+          "u": 75,
+          "p": "청약신청하기"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061081&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_0000061079",
