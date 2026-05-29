@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-28 23:11",
-  "count": 9,
+  "updated": "2026-05-29 02:47",
+  "count": 11,
   "kb": {
-    "updated": "2026.05.28",
+    "updated": "2026.05.29",
     "data": {
       "서울_서울": 0.0,
       "서울_종로구": 0.0,
@@ -100,6 +100,73 @@
   },
   "items": [
     {
+      "id": "lh_0000061101",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "화성동탄2 C-27블록 공공분양주택 입주자모집공고1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-05-29",
+      "ss": "",
+      "se": "2026-06-12",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "84.97",
+          "m2": 371.0,
+          "py": 112,
+          "u": 371,
+          "p": "청약신청전"
+        },
+        {
+          "a": "84.89",
+          "m2": 38.0,
+          "py": 11,
+          "u": 38,
+          "p": "청약신청전"
+        },
+        {
+          "a": "84.99",
+          "m2": 58.0,
+          "py": 18,
+          "u": 58,
+          "p": "청약신청전"
+        },
+        {
+          "a": "84.73",
+          "m2": 6.0,
+          "py": 2,
+          "u": 6,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061101&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "sh_304933",
+      "src": "SH",
+      "cat": "공공분양",
+      "name": "송파창의혁신지구(옛 성동구치소 부지) 업무시설용지 일반분양 공고",
+      "dist": "",
+      "city": "서울",
+      "loc": "서울",
+      "ann": "2026-05-29",
+      "ss": "",
+      "se": "",
+      "units": 0,
+      "bld": "SH",
+      "mv": "",
+      "tier": "B",
+      "types": [],
+      "qual": "",
+      "url": "https://www.i-sh.co.kr"
+    },
+    {
       "id": "sh_304876",
       "src": "SH",
       "cat": "공공분양",
@@ -176,6 +243,47 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061095&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
     },
     {
+      "id": "lh_0000061078",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "시흥하중 A1블록 신혼희망타운(공공분양) 입주자모집공고1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-04-30",
+      "ss": "",
+      "se": "2026-06-02",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "55.8",
+          "m2": 533.0,
+          "py": 161,
+          "u": 352,
+          "p": "청약신청하기"
+        },
+        {
+          "a": "55.74",
+          "m2": 42.0,
+          "py": 13,
+          "u": 30,
+          "p": "청약신청하기"
+        },
+        {
+          "a": "55.85",
+          "m2": 25.0,
+          "py": 8,
+          "u": 18,
+          "p": "청약신청하기"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061078&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
+    },
+    {
       "id": "lh_0000061082",
       "src": "LH",
       "cat": "공공분양",
@@ -222,47 +330,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061082&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_0000061078",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "시흥하중 A1블록 신혼희망타운(공공분양) 입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-04-30",
-      "ss": "",
-      "se": "2026-06-02",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "55.8",
-          "m2": 533.0,
-          "py": 161,
-          "u": 352,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "55.74",
-          "m2": 42.0,
-          "py": 13,
-          "u": 30,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "55.85",
-          "m2": 25.0,
-          "py": 8,
-          "u": 18,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061078&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
     },
     {
       "id": "lh_0000061079",
