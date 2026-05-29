@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29 07:51",
-  "count": 10,
+  "updated": "2026-05-29 11:24",
+  "count": 9,
   "kb": {
     "updated": "2026.05.29",
     "data": {
@@ -299,54 +299,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061078&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_0000061082",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "남양주왕숙2 A-3BL 공공분양주택 입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-04-30",
-      "ss": "",
-      "se": "2026-05-29",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "59.72",
-          "m2": 201.0,
-          "py": 61,
-          "u": 201,
-          "p": "정정"
-        },
-        {
-          "a": "59.81",
-          "m2": 189.0,
-          "py": 57,
-          "u": 189,
-          "p": "정정"
-        },
-        {
-          "a": "74.76",
-          "m2": 102.0,
-          "py": 31,
-          "u": 102,
-          "p": "정정"
-        },
-        {
-          "a": "84.75",
-          "m2": 194.0,
-          "py": 59,
-          "u": 194,
-          "p": "정정"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061082&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_0000061079",
