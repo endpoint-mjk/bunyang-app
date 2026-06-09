@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09 02:41",
-  "count": 8,
+  "updated": "2026-06-09 07:43",
+  "count": 9,
   "kb": {
     "updated": "2026.06.09",
     "data": {
@@ -99,6 +99,33 @@
     }
   },
   "items": [
+    {
+      "id": "lh_2015122300020064",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "구미화성파크드림 미분양매입 잔여세대 선착순 일반매각 공고1일전",
+      "dist": "",
+      "city": "",
+      "loc": "경상북도",
+      "ann": "2026-06-09",
+      "ss": "",
+      "se": "2026-06-24",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "84.4792",
+          "m2": 4.0,
+          "py": 1,
+          "u": 4,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020064&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "sh_305282",
       "src": "SH",
