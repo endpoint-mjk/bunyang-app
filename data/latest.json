@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12 03:28",
-  "count": 7,
+  "updated": "2026-06-12 08:20",
+  "count": 6,
   "kb": {
     "updated": "2026.06.12",
     "data": {
@@ -235,54 +235,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061094&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_0000061101",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "화성동탄2 C-27블록 공공분양주택 입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-05-29",
-      "ss": "",
-      "se": "2026-06-12",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "84.97",
-          "m2": 371.0,
-          "py": 112,
-          "u": 371,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.89",
-          "m2": 38.0,
-          "py": 11,
-          "u": 38,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.99",
-          "m2": 58.0,
-          "py": 18,
-          "u": 58,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.73",
-          "m2": 6.0,
-          "py": 2,
-          "u": 6,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061101&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_0000061096",
