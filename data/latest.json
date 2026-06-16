@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-15 22:18",
-  "count": 6,
+  "updated": "2026-06-16 03:37",
+  "count": 7,
   "kb": {
-    "updated": "2026.06.15",
+    "updated": "2026.06.16",
     "data": {
       "서울_서울": 0.0,
       "서울_종로구": 0.0,
@@ -273,6 +273,33 @@
       "types": [],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061095&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
+    },
+    {
+      "id": "lh_2015122300019811",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "대구노원한신더휴 잔여세대 선착순 일반매각 공고 [선착순 동·호지정, 유주택자 계약가능]1일전",
+      "dist": "",
+      "city": "",
+      "loc": "대구노원한신더휴 잔여세대 선착순 일반매각 공고 [선착순 동·호지정, 유주택자 계약가능]1일전",
+      "ann": "2026-04-30",
+      "ss": "",
+      "se": "2027-03-30",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "39.93",
+          "m2": 18.0,
+          "py": 5,
+          "u": 19,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019811&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_0000061079",
