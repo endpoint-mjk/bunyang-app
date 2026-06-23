@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23 02:46",
-  "count": 8,
+  "updated": "2026-06-23 07:43",
+  "count": 7,
   "kb": {
     "updated": "2026.06.23",
     "data": {
@@ -144,61 +144,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020064&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_2015122300020046",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "광주전남혁신 빛가람LH3단지 잔여세대 일반매각 공고(순번추첨 동호지정)1일전",
-      "dist": "",
-      "city": "",
-      "loc": "광주전남혁신 빛가람LH3단지 잔여세대 일반매각 공고(순번추첨 동호지정)1일전",
-      "ann": "2026-06-04",
-      "ss": "",
-      "se": "2026-06-23",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "59.89",
-          "m2": 16.0,
-          "py": 5,
-          "u": 9,
-          "p": "청약신청마감"
-        },
-        {
-          "a": "59.9",
-          "m2": 69.0,
-          "py": 21,
-          "u": 28,
-          "p": "청약신청마감"
-        },
-        {
-          "a": "74.91",
-          "m2": 110.0,
-          "py": 33,
-          "u": 51,
-          "p": "청약신청마감"
-        },
-        {
-          "a": "84.72",
-          "m2": 77.0,
-          "py": 23,
-          "u": 23,
-          "p": "청약신청마감"
-        },
-        {
-          "a": "84.96",
-          "m2": 134.0,
-          "py": 41,
-          "u": 33,
-          "p": "청약신청마감"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020046&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_0000061094",
