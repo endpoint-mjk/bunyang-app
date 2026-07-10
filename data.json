@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10 02:33",
-  "count": 19,
+  "updated": "2026-07-10 07:31",
+  "count": 20,
   "kb": {
     "updated": "2026.07.10",
     "data": {
@@ -99,6 +99,59 @@
     }
   },
   "items": [
+    {
+      "id": "lh_0000061127",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "익산평화 공공분양주택 해약세대 추가공급 모집공고1일전",
+      "dist": "",
+      "city": "",
+      "loc": "전국",
+      "ann": "2026-07-10",
+      "ss": "",
+      "se": "2027-07-09",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061127&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_2015122300020325",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "부산연지자이2차 잔여세대 일반매각 공고 (선착순 동호지정)1일전",
+      "dist": "",
+      "city": "",
+      "loc": "부산연지자이2차 잔여세대 일반매각 공고 (선착순 동호지정)1일전",
+      "ann": "2026-07-10",
+      "ss": "",
+      "se": "2026-12-23",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "39.9857",
+          "m2": 30.0,
+          "py": 9,
+          "u": 20,
+          "p": "-"
+        },
+        {
+          "a": "59.9074",
+          "m2": 37.0,
+          "py": 11,
+          "u": 25,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020325&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "sh_306722",
       "src": "SH",
@@ -210,25 +263,6 @@
       "types": [],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061131&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "sh_306493",
-      "src": "SH",
-      "cat": "공공분양",
-      "name": "2026년 가든파이브 툴동 1층 상가 일괄분양 공고",
-      "dist": "",
-      "city": "서울",
-      "loc": "서울",
-      "ann": "2026-07-06",
-      "ss": "",
-      "se": "",
-      "units": 0,
-      "bld": "SH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://www.i-sh.co.kr"
     },
     {
       "id": "lh_0000061129",
@@ -471,60 +505,6 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061121&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
-      "id": "lh_0000061114",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "양주회천 A17블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-06-30",
-      "ss": "",
-      "se": "2026-07-15",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "59.94",
-          "m2": 46.0,
-          "py": 14,
-          "u": 1,
-          "p": "청약신청전"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061114&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_0000061109",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "양주회천 A24블록 공공분양주택 잔여세대 추가입주자모집공고(순번추첨 동호지정)1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-06-30",
-      "ss": "",
-      "se": "2026-07-15",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "59.95",
-          "m2": 869.0,
-          "py": 263,
-          "u": 24,
-          "p": "청약신청전"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061109&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
       "id": "lh_0000061110",
       "src": "LH",
       "cat": "공공분양",
@@ -571,6 +551,60 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061110&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_0000061109",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "양주회천 A24블록 공공분양주택 잔여세대 추가입주자모집공고(순번추첨 동호지정)1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-06-30",
+      "ss": "",
+      "se": "2026-07-15",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "59.95",
+          "m2": 869.0,
+          "py": 263,
+          "u": 24,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061109&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_0000061114",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "양주회천 A17블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-06-30",
+      "ss": "",
+      "se": "2026-07-15",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "59.94",
+          "m2": 46.0,
+          "py": 14,
+          "u": 1,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061114&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
     },
     {
       "id": "lh_2015122300020237",
