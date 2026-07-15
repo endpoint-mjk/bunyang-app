@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15 08:00",
-  "count": 18,
+  "updated": "2026-07-15 10:06",
+  "count": 13,
   "kb": {
     "updated": "2026.07.15",
     "data": {
@@ -246,47 +246,6 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061131&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
     },
     {
-      "id": "lh_0000061129",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "인천가정2 B2블록 공공분양 잔여세대 추가 입주자모집공고1일전",
-      "dist": "",
-      "city": "인천",
-      "loc": "인천가정2 B2블록 공공분양 잔여세대 추가 입주자모집공고1일전",
-      "ann": "2026-07-03",
-      "ss": "",
-      "se": "2026-07-15",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "84.53",
-          "m2": 187.0,
-          "py": 57,
-          "u": 154,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.59",
-          "m2": 58.0,
-          "py": 18,
-          "u": 58,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.98",
-          "m2": 22.0,
-          "py": 7,
-          "u": 22,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061129&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
       "id": "lh_2015122300020248",
       "src": "LH",
       "cat": "공공분양",
@@ -312,68 +271,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020248&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_0000061117",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "고양창릉 S-3블록 이익공유형 분양주택 입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-06-30",
-      "ss": "",
-      "se": "2026-07-29",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "46.83",
-          "m2": 18.0,
-          "py": 5,
-          "u": 18,
-          "p": "정정"
-        },
-        {
-          "a": "55.97",
-          "m2": 234.0,
-          "py": 71,
-          "u": 234,
-          "p": "정정"
-        },
-        {
-          "a": "59.95",
-          "m2": 483.0,
-          "py": 146,
-          "u": 483,
-          "p": "정정"
-        },
-        {
-          "a": "59.78",
-          "m2": 200.0,
-          "py": 60,
-          "u": 200,
-          "p": "정정"
-        },
-        {
-          "a": "74.73",
-          "m2": 84.0,
-          "py": 25,
-          "u": 84,
-          "p": "정정"
-        },
-        {
-          "a": "84.96",
-          "m2": 263.0,
-          "py": 80,
-          "u": 263,
-          "p": "정정"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061117&ccrCnntSysDsCd=02&uppAisTpCd=54&aisTpCd=54&mi=1027"
     },
     {
       "id": "lh_0000061121",
@@ -445,106 +342,66 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061121&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
-      "id": "lh_0000061114",
+      "id": "lh_0000061117",
       "src": "LH",
       "cat": "공공분양",
-      "name": "양주회천 A17블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고1일전",
+      "name": "고양창릉 S-3블록 이익공유형 분양주택 입주자모집공고1일전",
       "dist": "",
       "city": "경기",
       "loc": "경기도",
       "ann": "2026-06-30",
       "ss": "",
-      "se": "2026-07-15",
+      "se": "2026-07-29",
       "units": 0,
       "bld": "LH",
       "mv": "",
       "tier": "B",
       "types": [
         {
-          "a": "59.94",
-          "m2": 46.0,
-          "py": 14,
-          "u": 1,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061114&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_0000061109",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "양주회천 A24블록 공공분양주택 잔여세대 추가입주자모집공고(순번추첨 동호지정)1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-06-30",
-      "ss": "",
-      "se": "2026-07-15",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
+          "a": "46.83",
+          "m2": 18.0,
+          "py": 5,
+          "u": 18,
+          "p": "정정"
+        },
+        {
+          "a": "55.97",
+          "m2": 234.0,
+          "py": 71,
+          "u": 234,
+          "p": "정정"
+        },
         {
           "a": "59.95",
-          "m2": 869.0,
-          "py": 263,
-          "u": 24,
-          "p": "청약신청하기"
+          "m2": 483.0,
+          "py": 146,
+          "u": 483,
+          "p": "정정"
+        },
+        {
+          "a": "59.78",
+          "m2": 200.0,
+          "py": 60,
+          "u": 200,
+          "p": "정정"
+        },
+        {
+          "a": "74.73",
+          "m2": 84.0,
+          "py": 25,
+          "u": 84,
+          "p": "정정"
+        },
+        {
+          "a": "84.96",
+          "m2": 263.0,
+          "py": 80,
+          "u": 263,
+          "p": "정정"
         }
       ],
       "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061109&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_0000061110",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "양주회천 A18BL,A21BL 공공분양주택 잔여세대 추가입주자모집공고(순번추첨 동호지정)1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-06-30",
-      "ss": "",
-      "se": "2026-07-15",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "74.97",
-          "m2": 372.0,
-          "py": 113,
-          "u": 3,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.95",
-          "m2": 699.0,
-          "py": 211,
-          "u": 8,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.97",
-          "m2": 233.0,
-          "py": 70,
-          "u": 2,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "74.69",
-          "m2": 296.0,
-          "py": 90,
-          "u": 1,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061110&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061117&ccrCnntSysDsCd=02&uppAisTpCd=54&aisTpCd=54&mi=1027"
     },
     {
       "id": "lh_0000061113",
@@ -609,10 +466,10 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061113&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
     },
     {
-      "id": "sh_307009",
+      "id": "sh_307071",
       "src": "SH",
       "cat": "공공분양",
-      "name": "2026년 1차 기숙사형청년주택 입주자모집(2026.06.26.) 청약신청 경쟁률 게시(2차)",
+      "name": "2026년 1차 기숙사형청년주택 입주자모집(2026.06.26.) 최종 청약 경쟁률 게시",
       "dist": "",
       "city": "서울",
       "loc": "서울",
@@ -626,82 +483,6 @@
       "types": [],
       "qual": "",
       "url": "https://www.i-sh.co.kr"
-    },
-    {
-      "id": "lh_0000061112",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "대전대동2 1BL 공공분양 추가 입주자모집공고[계약금 정액제(천만원), 순번추첨동호지정]1일전",
-      "dist": "",
-      "city": "",
-      "loc": "대전대동2 1BL 공공분양 추가 입주자모집공고[계약금 정액제(천만원), 순번추첨동호지정]1일전",
-      "ann": "2026-06-25",
-      "ss": "",
-      "se": "2026-07-15",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "59.89",
-          "m2": 110.0,
-          "py": 33,
-          "u": 17,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "59.91",
-          "m2": 272.0,
-          "py": 82,
-          "u": 200,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "59.68",
-          "m2": 39.0,
-          "py": 12,
-          "u": 28,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "59.8",
-          "m2": 50.0,
-          "py": 15,
-          "u": 50,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.66",
-          "m2": 310.0,
-          "py": 94,
-          "u": 208,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.97",
-          "m2": 152.0,
-          "py": 46,
-          "u": 52,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.93",
-          "m2": 141.0,
-          "py": 43,
-          "u": 136,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.86",
-          "m2": 56.0,
-          "py": 17,
-          "u": 52,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061112&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_0000061094",
