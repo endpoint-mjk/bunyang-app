@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-15 22:55",
-  "count": 13,
+  "updated": "2026-07-16 02:07",
+  "count": 14,
   "kb": {
-    "updated": "2026.07.15",
+    "updated": "2026.07.16",
     "data": {
       "서울_서울": 0.0,
       "서울_종로구": 0.0,
@@ -99,6 +99,25 @@
     }
   },
   "items": [
+    {
+      "id": "lh_0000061143",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "(계약금 1,000만원)청주지북B1블록 공공분양 잔여세대 추가 입주자모집(선착순 동호지정)1일전",
+      "dist": "",
+      "city": "",
+      "loc": "충청북도",
+      "ann": "2026-07-16",
+      "ss": "",
+      "se": "2027-07-15",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061143&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "sh_306986",
       "src": "SH",
