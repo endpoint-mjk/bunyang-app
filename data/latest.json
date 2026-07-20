@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20 06:42",
-  "count": 14,
+  "updated": "2026-07-20 10:47",
+  "count": 15,
   "kb": {
     "updated": "2026.07.20",
     "data": {
@@ -103,6 +103,25 @@
     }
   },
   "items": [
+    {
+      "id": "sh_307239",
+      "src": "SH",
+      "cat": "공공분양",
+      "name": "2026-2차 사당동원룸 잔여세대 입주자모집공고(26. 6. 26.) 서류심사대상자 발표 및 서류제출 안내",
+      "dist": "",
+      "city": "서울",
+      "loc": "서울",
+      "ann": "2026-07-20",
+      "ss": "",
+      "se": "",
+      "units": 0,
+      "bld": "SH",
+      "mv": "",
+      "tier": "B",
+      "types": [],
+      "qual": "",
+      "url": "https://www.i-sh.co.kr"
+    },
     {
       "id": "lh_0000061143",
       "src": "LH",
@@ -489,10 +508,10 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061113&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
     },
     {
-      "id": "sh_307071",
+      "id": "sh_307236",
       "src": "SH",
       "cat": "공공분양",
-      "name": "2026년 1차 기숙사형청년주택 입주자모집(2026.06.26.) 최종 청약 경쟁률 게시",
+      "name": "2026년 1차 기숙사형 청년주택 입주자모집공고(2026.06.26.) 서류심사대상자 발표 및 제출서류 안내",
       "dist": "",
       "city": "서울",
       "loc": "서울",
