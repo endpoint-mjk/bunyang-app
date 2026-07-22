@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22 06:24",
-  "count": 10,
+  "updated": "2026-07-22 10:21",
+  "count": 9,
   "kb": {
     "updated": "2026.07.22",
     "data": {
@@ -468,25 +468,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061113&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "sh_307236",
-      "src": "SH",
-      "cat": "공공분양",
-      "name": "2026년 1차 기숙사형 청년주택 입주자모집공고(2026.06.26.) 서류심사대상자 발표 및 제출서류 안내",
-      "dist": "",
-      "city": "서울",
-      "loc": "서울",
-      "ann": "2026-06-26",
-      "ss": "",
-      "se": "",
-      "units": 0,
-      "bld": "SH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://www.i-sh.co.kr"
     }
   ]
 }
