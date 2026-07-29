@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29 17:10",
-  "count": 1,
+  "updated": "2026-07-29 19:06",
+  "count": 8,
   "kb": {
     "updated": "2026.07.29",
     "data": {
@@ -121,6 +121,192 @@
       "types": [],
       "qual": "",
       "url": "https://www.i-sh.co.kr"
+    },
+    {
+      "id": "lh_0000061116",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "수원당수 A-3블록 신혼희망타운(공공분양) 잔여세대 추가입주자 모집공고(입주 후 해약세대)1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-07-27",
+      "ss": "",
+      "se": "2026-08-06",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "55.93",
+          "m2": 285.0,
+          "py": 86,
+          "u": 5,
+          "p": "청약신청전"
+        },
+        {
+          "a": "55.79",
+          "m2": 115.0,
+          "py": 35,
+          "u": 3,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061116&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
+    },
+    {
+      "id": "lh_0000061149",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "[선착순 동·호지정] 영천문외 센트럴타운 공공분양주택 추가입주자 모집 공고1일전",
+      "dist": "",
+      "city": "",
+      "loc": "경상북도",
+      "ann": "2026-07-24",
+      "ss": "",
+      "se": "2026-12-24",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061149&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_0000061142",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "수원당수 A5블록 신혼희망타운(공공분양) 잔여세대 추가입주자 모집공고1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-07-23",
+      "ss": "",
+      "se": "2026-08-04",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "46.9",
+          "m2": 137.0,
+          "py": 41,
+          "u": 65,
+          "p": "정정"
+        },
+        {
+          "a": "55.87",
+          "m2": 589.0,
+          "py": 178,
+          "u": 77,
+          "p": "정정"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061142&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
+    },
+    {
+      "id": "lh_0000061143",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "(계약금 1,000만원)청주지북B1블록 공공분양 잔여세대 추가 입주자모집(선착순 동호지정)1일전",
+      "dist": "",
+      "city": "",
+      "loc": "충청북도",
+      "ann": "2026-07-16",
+      "ss": "",
+      "se": "2027-07-15",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061143&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_2015122300020325",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "부산연지자이2차 잔여세대 일반매각 공고 (선착순 동호지정)1일전",
+      "dist": "",
+      "city": "",
+      "loc": "부산연지자이2차 잔여세대 일반매각 공고 (선착순 동호지정)1일전",
+      "ann": "2026-07-10",
+      "ss": "",
+      "se": "2026-12-23",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "39.9857",
+          "m2": 30.0,
+          "py": 9,
+          "u": 20,
+          "p": "-"
+        },
+        {
+          "a": "59.9074",
+          "m2": 37.0,
+          "py": 11,
+          "u": 25,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020325&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_0000061131",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "광주선운2 A-1,3블록 신혼희망타운 공공분양 선착순계약1일전",
+      "dist": "",
+      "city": "",
+      "loc": "광주선운2 A-1,3블록 신혼희망타운 공공분양 선착순계약1일전",
+      "ann": "2026-07-06",
+      "ss": "",
+      "se": "2026-12-31",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061131&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
+    },
+    {
+      "id": "lh_2015122300020248",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "영천해피포유 미분양매입 잔여세대 선착순 일반매각 공고1일전",
+      "dist": "",
+      "city": "",
+      "loc": "경상북도",
+      "ann": "2026-07-01",
+      "ss": "",
+      "se": "2027-04-13",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "84.6824",
+          "m2": 55.0,
+          "py": 17,
+          "u": 55,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020248&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     }
   ]
 }
