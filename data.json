@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30 08:16",
-  "count": 10,
+  "updated": "2026-07-30 11:48",
+  "count": 11,
   "kb": {
     "updated": "2026.07.30",
     "data": {
@@ -150,6 +150,25 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061133&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "sh_307782",
+      "src": "SH",
+      "cat": "공공분양",
+      "name": "마곡지구 17단지 토지임대부 분양주택 예비입주자 동호수 배정 결과 게시",
+      "dist": "",
+      "city": "서울",
+      "loc": "서울",
+      "ann": "2026-07-30",
+      "ss": "",
+      "se": "",
+      "units": 0,
+      "bld": "SH",
+      "mv": "",
+      "tier": "B",
+      "types": [],
+      "qual": "",
+      "url": "https://www.i-sh.co.kr"
     },
     {
       "id": "sh_307625",
