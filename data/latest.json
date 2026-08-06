@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06 06:27",
-  "count": 9,
+  "updated": "2026-08-06 10:34",
+  "count": 8,
   "kb": {
     "updated": "2026.08.06",
     "data": {
@@ -188,40 +188,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061133&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_0000061116",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "수원당수 A-3블록 신혼희망타운(공공분양) 잔여세대 추가입주자 모집공고(입주 후 해약세대)1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-07-27",
-      "ss": "",
-      "se": "2026-08-06",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "55.93",
-          "m2": 285.0,
-          "py": 86,
-          "u": 5,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "55.79",
-          "m2": 115.0,
-          "py": 35,
-          "u": 3,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061116&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
     },
     {
       "id": "lh_0000061149",
