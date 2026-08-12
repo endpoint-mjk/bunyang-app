@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12 04:02",
-  "count": 7,
+  "updated": "2026-08-12 07:18",
+  "count": 9,
   "kb": {
     "updated": "2026.08.12",
     "data": {
@@ -103,6 +103,81 @@
     }
   },
   "items": [
+    {
+      "id": "lh_0000061147",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "양주옥정 A-4(1)블록 공공분양주택 추가모집(5년 무이자할부 및 발코니 확장비 무상지원)1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-08-12",
+      "ss": "",
+      "se": "2026-08-27",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "51.98",
+          "m2": 509.0,
+          "py": 154,
+          "u": 11,
+          "p": "청약신청전"
+        },
+        {
+          "a": "59.85",
+          "m2": 569.0,
+          "py": 172,
+          "u": 6,
+          "p": "청약신청전"
+        },
+        {
+          "a": "59.76",
+          "m2": 232.0,
+          "py": 70,
+          "u": 2,
+          "p": "청약신청전"
+        },
+        {
+          "a": "59.6",
+          "m2": 99.0,
+          "py": 30,
+          "u": 3,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061147&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_2015122300020517",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "중동 경남아너스빌 잔여세대 일반매각 공고1일전",
+      "dist": "",
+      "city": "",
+      "loc": "부산광역시",
+      "ann": "2026-08-12",
+      "ss": "",
+      "se": "2026-08-26",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "39.6602",
+          "m2": 11.0,
+          "py": 3,
+          "u": 55,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020517&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "lh_0000061125",
       "src": "LH",
