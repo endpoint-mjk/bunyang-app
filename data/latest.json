@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19 02:53",
-  "count": 10,
+  "updated": "2026-08-19 04:32",
+  "count": 11,
   "kb": {
     "updated": "2026.08.19",
     "data": {
@@ -103,6 +103,33 @@
     }
   },
   "items": [
+    {
+      "id": "lh_2015122300020518",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "울산 중산디아채 잔여세대 일반매각 공고(선착순)1일전",
+      "dist": "",
+      "city": "",
+      "loc": "울산 중산디아채 잔여세대 일반매각 공고(선착순)1일전",
+      "ann": "2026-08-19",
+      "ss": "",
+      "se": "2026-12-23",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "84.9805",
+          "m2": 8.0,
+          "py": 2,
+          "u": 8,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020518&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "lh_0000061157",
       "src": "LH",
