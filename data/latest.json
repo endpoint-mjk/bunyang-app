@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28 03:59",
-  "count": 12,
+  "updated": "2026-08-28 16:29",
+  "count": 11,
   "kb": {
     "updated": "2026.08.28",
     "data": {
@@ -157,25 +157,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061158&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "sh_309322",
-      "src": "SH",
-      "cat": "공공분양",
-      "name": "[마곡엠밸리17단지]분양세대 관리비 예치금 통장 안내",
-      "dist": "",
-      "city": "서울",
-      "loc": "서울",
-      "ann": "2026-08-27",
-      "ss": "",
-      "se": "",
-      "units": 0,
-      "bld": "SH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://www.i-sh.co.kr"
     },
     {
       "id": "lh_0000061159",
