@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01 14:28",
-  "count": 15,
+  "updated": "2026-09-01 19:10",
+  "count": 14,
   "kb": {
     "updated": "2026.09.01",
     "data": {
@@ -607,33 +607,6 @@
       "types": [],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061131&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_2015122300020248",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "영천해피포유 미분양매입 잔여세대 선착순 일반매각 공고1일전",
-      "dist": "",
-      "city": "",
-      "loc": "경상북도",
-      "ann": "2026-07-01",
-      "ss": "",
-      "se": "2027-04-13",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "84.6824",
-          "m2": 55.0,
-          "py": 17,
-          "u": 55,
-          "p": "-"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020248&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     }
   ]
 }
