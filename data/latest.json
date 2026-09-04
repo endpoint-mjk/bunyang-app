@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04 02:34",
-  "count": 12,
+  "updated": "2026-09-04 08:25",
+  "count": 14,
   "kb": {
     "updated": "2026.09.04",
     "data": {
@@ -103,6 +103,73 @@
     }
   },
   "items": [
+    {
+      "id": "lh_0000061171",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "대전대동2 1BL 공공분양 추가 입주자모집공고[선착순 동호지정/계약금 정액제(천만원)]1일전",
+      "dist": "",
+      "city": "",
+      "loc": "대전대동2 1BL 공공분양 추가 입주자모집공고[선착순 동호지정/계약금 정액제(천만원)]1일전",
+      "ann": "2026-09-04",
+      "ss": "",
+      "se": "2027-09-04",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061171&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_2015122300020606",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "무안 오룡마을 남악휴먼시아 잔여세대 일반매각 공고(상시, 유주택)1일전",
+      "dist": "",
+      "city": "",
+      "loc": "전남광주통합특별시",
+      "ann": "2026-09-04",
+      "ss": "",
+      "se": "2026-09-17",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "74.54",
+          "m2": 1.0,
+          "py": 0,
+          "u": 1,
+          "p": "-"
+        },
+        {
+          "a": "84.51",
+          "m2": 1.0,
+          "py": 0,
+          "u": 1,
+          "p": "-"
+        },
+        {
+          "a": "84.85",
+          "m2": 4.0,
+          "py": 1,
+          "u": 4,
+          "p": "-"
+        },
+        {
+          "a": "84.92",
+          "m2": 1.0,
+          "py": 0,
+          "u": 1,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020606&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "lh_0000061153",
       "src": "LH",
