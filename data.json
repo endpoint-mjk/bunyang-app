@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10 14:01",
-  "count": 12,
+  "updated": "2026-09-10 18:54",
+  "count": 11,
   "kb": {
     "updated": "2026.09.10",
     "data": {
@@ -535,40 +535,6 @@
       "types": [],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061143&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_2015122300020325",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "부산연지자이2차 잔여세대 일반매각 공고 (선착순 동호지정)1일전",
-      "dist": "",
-      "city": "",
-      "loc": "부산연지자이2차 잔여세대 일반매각 공고 (선착순 동호지정)1일전",
-      "ann": "2026-07-10",
-      "ss": "",
-      "se": "2026-12-23",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "39.9857",
-          "m2": 30.0,
-          "py": 9,
-          "u": 20,
-          "p": "-"
-        },
-        {
-          "a": "59.9074",
-          "m2": 37.0,
-          "py": 11,
-          "u": 25,
-          "p": "-"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020325&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     }
   ]
 }
