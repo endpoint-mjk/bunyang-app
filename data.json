@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-28 19:09",
-  "count": 16,
+  "updated": "2026-09-29 00:08",
+  "count": 15,
   "kb": {
-    "updated": "2026.09.28",
+    "updated": "2026.09.29",
     "data": {
       "서울_서울": 0.0,
       "서울_종로구": 0.0,
@@ -241,25 +241,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061182&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "sh_310673",
-      "src": "SH",
-      "cat": "공공분양",
-      "name": "2026년 신정도시마을 잔여세대 입주자모집공고(26. 9. 23.)",
-      "dist": "",
-      "city": "서울",
-      "loc": "서울",
-      "ann": "2026-09-23",
-      "ss": "",
-      "se": "",
-      "units": 0,
-      "bld": "SH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://www.i-sh.co.kr"
     },
     {
       "id": "lh_0000061175",
