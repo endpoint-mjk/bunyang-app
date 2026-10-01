@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01 01:02",
-  "count": 15,
+  "updated": "2026-10-01 08:12",
+  "count": 14,
   "kb": {
     "updated": "2026.10.01",
     "data": {
@@ -501,54 +501,6 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020799&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
-      "id": "lh_2015122300020598",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "광주효천2 LH천년나무6단지 잔여세대 일반매각 공고(무순위 동호추첨)1일전",
-      "dist": "",
-      "city": "",
-      "loc": "광주효천2 LH천년나무6단지 잔여세대 일반매각 공고(무순위 동호추첨)1일전",
-      "ann": "2026-09-18",
-      "ss": "",
-      "se": "2026-10-01",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "51.87",
-          "m2": 49.0,
-          "py": 15,
-          "u": 34,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "59.89",
-          "m2": 40.0,
-          "py": 12,
-          "u": 16,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "59.89",
-          "m2": 12.0,
-          "py": 4,
-          "u": 4,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "59.95",
-          "m2": 8.0,
-          "py": 2,
-          "u": 4,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020598&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
       "id": "lh_0000061171",
       "src": "LH",
       "cat": "공공분양",
@@ -736,7 +688,7 @@
       "loc": "광주전남혁신 빛가람LH3단지 잔여세대 일반매각 공고(상시, 선착순 동호지정)1일전",
       "ann": "2026-08-25",
       "ss": "",
-      "se": "2026-12-31",
+      "se": "2026-10-07",
       "units": 0,
       "bld": "LH",
       "mv": "",
