@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02 03:44",
-  "count": 13,
+  "updated": "2026-10-02 10:16",
+  "count": 12,
   "kb": {
     "updated": "2026.10.02",
     "data": {
@@ -330,25 +330,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061179&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "sh_310858",
-      "src": "SH",
-      "cat": "공공분양",
-      "name": "고덕강일지구 생활대책용지(상업시설용지) 공급 공고",
-      "dist": "",
-      "city": "서울",
-      "loc": "서울",
-      "ann": "2026-09-30",
-      "ss": "",
-      "se": "",
-      "units": 0,
-      "bld": "SH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://www.i-sh.co.kr"
     },
     {
       "id": "lh_0000061181",
