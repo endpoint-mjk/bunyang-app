@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 03:14",
+  "updated": "2026-10-14 09:14",
   "count": 8,
   "kb": {
     "updated": "2026.10.14",
@@ -103,6 +103,61 @@
     }
   },
   "items": [
+    {
+      "id": "lh_2015122300020906",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "광주전남혁신 빛가람LH3단지 잔여세대 일반매각 공고(상시, 선착순 동호지정)1일전",
+      "dist": "",
+      "city": "",
+      "loc": "광주전남혁신 빛가람LH3단지 잔여세대 일반매각 공고(상시, 선착순 동호지정)1일전",
+      "ann": "2026-10-14",
+      "ss": "",
+      "se": "2026-12-31",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "59.89",
+          "m2": 13.0,
+          "py": 4,
+          "u": 2,
+          "p": "-"
+        },
+        {
+          "a": "59.9",
+          "m2": 56.0,
+          "py": 17,
+          "u": 27,
+          "p": "-"
+        },
+        {
+          "a": "74.91",
+          "m2": 103.0,
+          "py": 31,
+          "u": 50,
+          "p": "-"
+        },
+        {
+          "a": "84.72",
+          "m2": 75.0,
+          "py": 23,
+          "u": 27,
+          "p": "-"
+        },
+        {
+          "a": "84.96",
+          "m2": 124.0,
+          "py": 38,
+          "u": 35,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020906&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "lh_2015122300020860",
       "src": "LH",
@@ -330,40 +385,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061179&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_0000061180",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "원주무실 A-2블록 공공분양주택 자격완화 추가 입주자모집 공고(유주택자 가능)1일전",
-      "dist": "",
-      "city": "",
-      "loc": "강원특별자치도",
-      "ann": "2026-09-28",
-      "ss": "",
-      "se": "2026-10-14",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "74.84",
-          "m2": 88.0,
-          "py": 27,
-          "u": 60,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.79",
-          "m2": 207.0,
-          "py": 63,
-          "u": 122,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061180&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_2015122300020799",
