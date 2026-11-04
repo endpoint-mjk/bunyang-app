@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04 13:41",
-  "count": 16,
+  "updated": "2026-11-04 20:39",
+  "count": 15,
   "kb": {
     "updated": "2026.11.04",
     "data": {
@@ -694,25 +694,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020799&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_0000061171",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "대전대동2 1BL 공공분양 추가 입주자모집공고[선착순 동호지정/계약금 정액제(천만원)]1일전",
-      "dist": "",
-      "city": "",
-      "loc": "대전대동2 1BL 공공분양 추가 입주자모집공고[선착순 동호지정/계약금 정액제(천만원)]1일전",
-      "ann": "2026-09-04",
-      "ss": "",
-      "se": "2027-09-04",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061171&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     }
   ]
 }
