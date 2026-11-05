@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05 01:58",
-  "count": 14,
+  "updated": "2026-11-05 09:02",
+  "count": 17,
   "kb": {
     "updated": "2026.11.05",
     "data": {
@@ -104,14 +104,130 @@
   },
   "items": [
     {
-      "id": "sh_312816",
+      "id": "lh_2015122300021009",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "경기남부권(수원·용인 광교) 공가세대 일반매각 공고(무순위, 유주택자 가능)1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기남부권(수원·용인 광교) 공가세대 일반매각 공고(무순위, 유주택자 가능)1일전",
+      "ann": "2026-11-05",
+      "ss": "",
+      "se": "2026-11-24",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "101.97",
+          "m2": 2.0,
+          "py": 1,
+          "u": 3,
+          "p": "-"
+        },
+        {
+          "a": "120.78",
+          "m2": 1.0,
+          "py": 0,
+          "u": 3,
+          "p": "-"
+        },
+        {
+          "a": "101.72",
+          "m2": 1.0,
+          "py": 0,
+          "u": 3,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021009&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_2015122300021010",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "경기남부권(수원 광교) 공가세대 일반매각 공고(무순위, 무주택세대구성원)1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기남부권(수원 광교) 공가세대 일반매각 공고(무순위, 무주택세대구성원)1일전",
+      "ann": "2026-11-05",
+      "ss": "",
+      "se": "2026-11-24",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "84.81",
+          "m2": 2.0,
+          "py": 1,
+          "u": 6,
+          "p": "-"
+        },
+        {
+          "a": "84.92",
+          "m2": 2.0,
+          "py": 1,
+          "u": 6,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021010&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "lh_2015122300021015",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "경기남부권(안성 동인힐타운) 다세대주택 공가세대 일반매각 공고(무순위, 무주택세대구성원)1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기남부권(안성 동인힐타운) 다세대주택 공가세대 일반매각 공고(무순위, 무주택세대구성원)1일전",
+      "ann": "2026-11-05",
+      "ss": "",
+      "se": "2026-11-24",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "59.71",
+          "m2": 8.0,
+          "py": 2,
+          "u": 12,
+          "p": "-"
+        },
+        {
+          "a": "59.31",
+          "m2": 7.0,
+          "py": 2,
+          "u": 9,
+          "p": "-"
+        },
+        {
+          "a": "59.66",
+          "m2": 8.0,
+          "py": 2,
+          "u": 21,
+          "p": "-"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021015&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "sh_312883",
       "src": "SH",
       "cat": "공공분양",
-      "name": "고덕강일지구 3단지 토지임대부 분양주택 일반공급 1일차 접수결과 게시",
+      "name": "고덕강일지구 3단지 토지임대부 분양주택 일반공급 2일차 접수결과 게시",
       "dist": "",
       "city": "서울",
       "loc": "서울",
-      "ann": "2026-11-04",
+      "ann": "2026-11-05",
       "ss": "",
       "se": "",
       "units": 0,
@@ -155,40 +271,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061192&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_0000061200",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "고양지축 B-1블록 공공분양주택 잔여세대 추가입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-11-03",
-      "ss": "",
-      "se": "2026-11-13",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "59.93",
-          "m2": 98.0,
-          "py": 30,
-          "u": 1,
-          "p": "청약신청전"
-        },
-        {
-          "a": "84.88",
-          "m2": 168.0,
-          "py": 51,
-          "u": 2,
-          "p": "청약신청전"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061200&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_0000061199",
@@ -244,6 +326,40 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061199&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
+    },
+    {
+      "id": "lh_0000061200",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "고양지축 B-1블록 공공분양주택 잔여세대 추가입주자모집공고1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-11-03",
+      "ss": "",
+      "se": "2026-11-13",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "59.93",
+          "m2": 98.0,
+          "py": 30,
+          "u": 1,
+          "p": "청약신청전"
+        },
+        {
+          "a": "84.88",
+          "m2": 168.0,
+          "py": 51,
+          "u": 2,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061200&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_2015122300020994",
