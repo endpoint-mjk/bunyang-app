@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-09 20:22",
-  "count": 20,
+  "updated": "2026-11-10 03:57",
+  "count": 21,
   "kb": {
-    "updated": "2026.11.09",
+    "updated": "2026.11.10",
     "data": {
       "서울_서울": 0.0,
       "서울_종로구": 0.0,
@@ -103,6 +103,40 @@
     }
   },
   "items": [
+    {
+      "id": "lh_0000061207",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "원주무실 A-2블록 공공분양 잔여세대 추가 입주자모집 공고(순번추첨 동호지정 및 선착순)1일전",
+      "dist": "",
+      "city": "",
+      "loc": "강원특별자치도",
+      "ann": "2026-11-10",
+      "ss": "",
+      "se": "2026-11-27",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "C",
+      "types": [
+        {
+          "a": "74.84",
+          "m2": 88.0,
+          "py": 27,
+          "u": 54,
+          "p": "청약신청전"
+        },
+        {
+          "a": "84.79",
+          "m2": 207.0,
+          "py": 63,
+          "u": 100,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061207&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
     {
       "id": "lh_2015122300021000",
       "src": "LH",
@@ -285,40 +319,6 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021009&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
-      "id": "lh_2015122300021010",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "경기남부권(수원 광교) 공가세대 일반매각 공고(무순위, 무주택세대구성원)1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기남부권(수원 광교) 공가세대 일반매각 공고(무순위, 무주택세대구성원)1일전",
-      "ann": "2026-11-05",
-      "ss": "",
-      "se": "2026-11-24",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "84.81",
-          "m2": 2.0,
-          "py": 1,
-          "u": 6,
-          "p": "청약신청마감"
-        },
-        {
-          "a": "84.92",
-          "m2": 2.0,
-          "py": 1,
-          "u": 6,
-          "p": "청약신청마감"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021010&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
       "id": "lh_2015122300021015",
       "src": "LH",
       "cat": "공공분양",
@@ -360,6 +360,40 @@
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021015&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
+      "id": "lh_2015122300021010",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "경기남부권(수원 광교) 공가세대 일반매각 공고(무순위, 무주택세대구성원)1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기남부권(수원 광교) 공가세대 일반매각 공고(무순위, 무주택세대구성원)1일전",
+      "ann": "2026-11-05",
+      "ss": "",
+      "se": "2026-11-24",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "84.81",
+          "m2": 2.0,
+          "py": 1,
+          "u": 6,
+          "p": "청약신청마감"
+        },
+        {
+          "a": "84.92",
+          "m2": 2.0,
+          "py": 1,
+          "u": 6,
+          "p": "청약신청마감"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021010&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
       "id": "lh_0000061192",
       "src": "LH",
       "cat": "공공분양",
@@ -392,40 +426,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061192&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_0000061200",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "고양지축 B-1블록 공공분양주택 잔여세대 추가입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-11-03",
-      "ss": "",
-      "se": "2026-11-13",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "59.93",
-          "m2": 98.0,
-          "py": 30,
-          "u": 1,
-          "p": "청약신청전"
-        },
-        {
-          "a": "84.88",
-          "m2": 168.0,
-          "py": 51,
-          "u": 2,
-          "p": "청약신청전"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061200&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_0000061199",
@@ -481,6 +481,40 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061199&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
+    },
+    {
+      "id": "lh_0000061200",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "고양지축 B-1블록 공공분양주택 잔여세대 추가입주자모집공고1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-11-03",
+      "ss": "",
+      "se": "2026-11-13",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "59.93",
+          "m2": 98.0,
+          "py": 30,
+          "u": 1,
+          "p": "청약신청전"
+        },
+        {
+          "a": "84.88",
+          "m2": 168.0,
+          "py": 51,
+          "u": 2,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061200&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_2015122300020994",
