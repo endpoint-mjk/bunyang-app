@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11 01:40",
-  "count": 18,
+  "updated": "2026-11-11 08:46",
+  "count": 17,
   "kb": {
     "updated": "2026.11.11",
     "data": {
@@ -163,25 +163,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021000&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "sh_313011",
-      "src": "SH",
-      "cat": "공공분양",
-      "name": "2027년 서초주거안심종합센터 희망돌보미(사무지원)모집공고",
-      "dist": "",
-      "city": "서울",
-      "loc": "서울",
-      "ann": "2026-11-09",
-      "ss": "",
-      "se": "",
-      "units": 0,
-      "bld": "SH",
-      "mv": "",
-      "tier": "B",
-      "types": [],
-      "qual": "",
-      "url": "https://www.i-sh.co.kr"
     },
     {
       "id": "lh_2015122300021006",
