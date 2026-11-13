@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13 04:45",
+  "updated": "2026-11-13 13:49",
   "count": 17,
   "kb": {
     "updated": "2026.11.13",
@@ -103,6 +103,52 @@
     }
   },
   "items": [
+    {
+      "id": "lh_0000061211",
+      "src": "LH",
+      "cat": "공공분양",
+      "name": "의정부우정 A-1블록 공공분양주택 잔여세대 추가입주자모집공고(순번추첨 동호지정)1일전",
+      "dist": "",
+      "city": "경기",
+      "loc": "경기도",
+      "ann": "2026-11-13",
+      "ss": "",
+      "se": "2026-12-10",
+      "units": 0,
+      "bld": "LH",
+      "mv": "",
+      "tier": "B",
+      "types": [
+        {
+          "a": "59.34",
+          "m2": 538.0,
+          "py": 163,
+          "u": 433,
+          "p": "청약신청전"
+        }
+      ],
+      "qual": "",
+      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061211&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+    },
+    {
+      "id": "sh_313303",
+      "src": "SH",
+      "cat": "공공분양",
+      "name": "2026년 3차 희망하우징(공공기숙사) 잔여세대 입주자 모집공고(2026. 10. 28.) 서류심사대상자 발표",
+      "dist": "",
+      "city": "서울",
+      "loc": "서울",
+      "ann": "2026-11-13",
+      "ss": "",
+      "se": "",
+      "units": 0,
+      "bld": "SH",
+      "mv": "",
+      "tier": "B",
+      "types": [],
+      "qual": "",
+      "url": "https://www.i-sh.co.kr"
+    },
     {
       "id": "sh_313274",
       "src": "SH",
@@ -339,95 +385,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021015&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_0000061200",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "고양지축 B-1블록 공공분양주택 잔여세대 추가입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-11-03",
-      "ss": "",
-      "se": "2026-11-13",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "59.93",
-          "m2": 98.0,
-          "py": 30,
-          "u": 1,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "84.88",
-          "m2": 168.0,
-          "py": 51,
-          "u": 2,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061200&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_0000061199",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "고양장항 A-2, A-4, A-5블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-11-03",
-      "ss": "",
-      "se": "2026-11-13",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "56.82",
-          "m2": 1566.0,
-          "py": 474,
-          "u": 1,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "56.82",
-          "m2": 759.0,
-          "py": 230,
-          "u": 3,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "46.7",
-          "m2": 112.0,
-          "py": 34,
-          "u": 1,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "55.92",
-          "m2": 495.0,
-          "py": 150,
-          "u": 2,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "55.82",
-          "m2": 43.0,
-          "py": 13,
-          "u": 1,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061199&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
     },
     {
       "id": "lh_2015122300020994",
