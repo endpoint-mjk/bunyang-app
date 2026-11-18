@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18 09:39",
-  "count": 12,
+  "updated": "2026-11-18 18:36",
+  "count": 11,
   "kb": {
     "updated": "2026.11.18",
     "data": {}
@@ -414,47 +414,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020823&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_2015122300020799",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "광주전남혁신 빛가람LH1단지 잔여세대 일반매각 공고(상시, 선착순 동호지정)1일전",
-      "dist": "",
-      "city": "",
-      "loc": "광주전남혁신 빛가람LH1단지 잔여세대 일반매각 공고(상시, 선착순 동호지정)1일전",
-      "ann": "2026-09-18",
-      "ss": "",
-      "se": "2026-12-31",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "74.91",
-          "m2": 51.0,
-          "py": 15,
-          "u": 40,
-          "p": "-"
-        },
-        {
-          "a": "84.94",
-          "m2": 14.0,
-          "py": 4,
-          "u": 6,
-          "p": "-"
-        },
-        {
-          "a": "84.96",
-          "m2": 155.0,
-          "py": 47,
-          "u": 55,
-          "p": "-"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020799&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     }
   ]
 }
