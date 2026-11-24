@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24 01:29",
-  "count": 11,
+  "updated": "2026-11-24 11:56",
+  "count": 7,
   "kb": {
     "updated": "2026.11.24",
     "data": {}
@@ -66,33 +66,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061207&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_2015122300021000",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "서귀포혁신1 잔여세대 일반매각 공고 (무순위 공급)1일전",
-      "dist": "",
-      "city": "",
-      "loc": "제주특별자치도",
-      "ann": "2026-11-09",
-      "ss": "",
-      "se": "2026-11-24",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "59.98",
-          "m2": 10.0,
-          "py": 3,
-          "u": 30,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021000&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_2015122300021006",
@@ -168,115 +141,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061204&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_2015122300021009",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "경기남부권(수원·용인 광교) 공가세대 일반매각 공고(무순위, 유주택자 가능)1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기남부권(수원·용인 광교) 공가세대 일반매각 공고(무순위, 유주택자 가능)1일전",
-      "ann": "2026-11-05",
-      "ss": "",
-      "se": "2026-11-24",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "101.97",
-          "m2": 2.0,
-          "py": 1,
-          "u": 3,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "120.78",
-          "m2": 1.0,
-          "py": 0,
-          "u": 3,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "101.72",
-          "m2": 1.0,
-          "py": 0,
-          "u": 3,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021009&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_2015122300020994",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "영천문외 센트럴타운 공가세대 일반매각 공고1일전",
-      "dist": "",
-      "city": "",
-      "loc": "경상북도",
-      "ann": "2026-11-02",
-      "ss": "",
-      "se": "2026-11-24",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "39.99",
-          "m2": 36.0,
-          "py": 11,
-          "u": 70,
-          "p": "청약신청마감"
-        },
-        {
-          "a": "51.54",
-          "m2": 33.0,
-          "py": 10,
-          "u": 66,
-          "p": "청약신청마감"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020994&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
-    },
-    {
-      "id": "lh_0000061189",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "안산신길2 A-6블록 신혼희망타운(공공분양) 입주자모집공고1일전",
-      "dist": "",
-      "city": "경기",
-      "loc": "경기도",
-      "ann": "2026-10-30",
-      "ss": "",
-      "se": "2026-11-24",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "B",
-      "types": [
-        {
-          "a": "55.81",
-          "m2": 344.0,
-          "py": 104,
-          "u": 229,
-          "p": "청약신청하기"
-        },
-        {
-          "a": "55.77",
-          "m2": 32.0,
-          "py": 10,
-          "u": 22,
-          "p": "청약신청하기"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061189&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
     },
     {
       "id": "lh_2015122300020961",
