@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-25 16:41",
-  "count": 7,
+  "updated": "2026-11-26 01:28",
+  "count": 6,
   "kb": {
-    "updated": "2026.11.25",
+    "updated": "2026.11.26",
     "data": {}
   },
   "items": [
@@ -141,61 +141,6 @@
       ],
       "qual": "",
       "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061204&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027"
-    },
-    {
-      "id": "lh_2015122300020961",
-      "src": "LH",
-      "cat": "공공분양",
-      "name": "충남권(아산시, 보령시, 천안시, 공주시) 미분양매입 일반매각 잔여세대 선착순 동·호 지정 공고1일전",
-      "dist": "",
-      "city": "",
-      "loc": "충청남도",
-      "ann": "2026-10-26",
-      "ss": "",
-      "se": "2026-11-26",
-      "units": 0,
-      "bld": "LH",
-      "mv": "",
-      "tier": "C",
-      "types": [
-        {
-          "a": "84.6814",
-          "m2": 72.0,
-          "py": 22,
-          "u": 69,
-          "p": "-"
-        },
-        {
-          "a": "84.9721",
-          "m2": 51.0,
-          "py": 15,
-          "u": 49,
-          "p": "-"
-        },
-        {
-          "a": "84.5821",
-          "m2": 6.0,
-          "py": 2,
-          "u": 5,
-          "p": "-"
-        },
-        {
-          "a": "84.726",
-          "m2": 14.0,
-          "py": 4,
-          "u": 8,
-          "p": "-"
-        },
-        {
-          "a": "81.8699",
-          "m2": 3.0,
-          "py": 1,
-          "u": 3,
-          "p": "-"
-        }
-      ],
-      "qual": "",
-      "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300020961&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027"
     },
     {
       "id": "lh_2015122300020906",
